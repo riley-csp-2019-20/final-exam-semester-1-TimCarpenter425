@@ -91,7 +91,7 @@ def down():
 #color/drawing functions
 
 pd = True #variable for if the pen is down
-ps = 1 #variable for pensize
+ps = 3 #variable for pensize
 
 penIndicator.pensize(ps)
 penIndicator.clear()
